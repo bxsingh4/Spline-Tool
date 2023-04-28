@@ -1,6 +1,4 @@
-#                                                                               Spline-Tool
-
-
+<h1 align="center">Spline-Tool</h1>
 
 <p align="center">
   <img src="Images/S1.png" width="400" height ="400" />
