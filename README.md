@@ -2,7 +2,7 @@
 
 
 
-<p float="center">
+<p align="center">
   <img src="Images/S1.png" width="400" height ="400" />
   <br />
   <em>Spline Tool Example 1</em>
