@@ -1,4 +1,4 @@
-# Spline-Tool
+#                                                                               Spline-Tool
 
 
 
@@ -8,7 +8,7 @@
   <em>Spline Tool Example 1</em>
 </p>
 
-<p float="left">
+<p align="center">
   <img src="Images/S2.png" width="400" height ="400" />
   <br />
   <em>Spline Tool Example 2</em>
